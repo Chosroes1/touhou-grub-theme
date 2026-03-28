@@ -1,6 +1,10 @@
 東方虚御履 ~Cyberadise Bootloader
 ====
 
+HDMI采集卡不知道为什么看不到GRUB界面，先放个拍屏在这。<dr>
+![bab80ab4d80f3781417f05716004dfb5_720](https://github.com/user-attachments/assets/bb2a47ce-7ee8-44a6-a148-d15711fb8be3)
+
+
 配置方法
 ----
 1.在[Releases](https://github.com/Chosroes1/touhou-grub-theme/releases/tag/v1.0)中选择自己屏幕分辨率对应的压缩包。<br>
