@@ -1,5 +1,8 @@
 東方虚御履 ~Cyberadise Bootloader
 ====
+
+配置方法
+----
 1.在[Release](https://github.com/Chosroes1/touhou-grub-theme/releases/tag/v1.0)中选择自己屏幕分辨率对应的压缩包。<br>
 2.解压，将th-cb/移动到`/boot/grub/themes/`（Fedora等系统用户需移动到/boot/grub2/themes/）。下方示例以2880x1800为例，默认下载地址为`~/Downloads`，解压工具为gzip，请根据实际情况进行修正。
 ``` bash
@@ -27,3 +30,19 @@ sudo vim /etc/default/grub
 ```bash
 reboot
 ```
+
+使用素材
+----
+Character Illustration: MMJ #pixiv 【フリー素材】新博麗霊夢立ち絵2023 https://www.pixiv.net/artworks/112223416 <br>
+Original Background： Freepik www.freepik.com <br>
+Title Font: 装甲明朝 https://flopdesign.booth.pm/items/1028555 <br>
+Suntitile Font: ROG Fonts <br>
+Menu Font: 猫啃故障宋 https://fonts.zeoseven.com/items/831/ <br>
+Terminal Font: DejaVu Sans Mono <br>
+Other Font: 文泉驿正黑 <br>
+Icons/Terminal Box: From https://github.com/Coopydood/HyperFluent-GRUB-Theme <br>
+
+备注
+----
+本主题仅在2880x1600分辨率的显示器上进行过测试，其他分辨率并未经过测试。如在其他分辨率下出现问题，请提出，我会尽快修改。<br>
+如在中文环境下更新GRUB，请勿删除文泉驿的字体文件（即wqy.pf2），否则会导致巨大的猫啃故障宋占据终端。也不要将文泉驿正黑设为终端字体，否则会导致终端框位置出现异常。
