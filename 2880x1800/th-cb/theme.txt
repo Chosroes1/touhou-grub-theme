@@ -1,0 +1,43 @@
+#main options
+desktop-color: "#000000"
+title-text: " "
+desktop-image: "background.png"
+terminal-font: "DejaVu Sans Mono Regular 24"
+terminal-box: "terminal_box_*.png"
+terminal-border: "0"
+terminal-left: "58%"
+terminal-top: "40%"
+terminal-width: "40%"
+terminal-height: "57%"
+message-font: "DejaVu Sans Mono Regular 24"
+message-color: "#00ffff"
+message-bg-color: "#00000000"
+
+# boot menu
++ boot_menu {
+  left = 63%
+  top = 45%
+  width = 34%
+  height = 45%
+
+  item_font = "Maoken Glitch Serif Regular 50"
+  item_color = "#88aacc"
+  selected_item_color = "#ffffff"
+  icon_width = 75
+  icon_height = 75
+  item_icon_space = 25
+  item_height = 70
+  item_padding = 5
+  item_spacing = 20
+}
+
+# Countdown label 
++ label {
+  left = 85%
+  top = 93%
+  align = "left"
+  id = "__timeout__"
+  text = "少女祈禱中 %d"
+  color = "#00ffff" 
+  font = "Maoken Glitch Serif Regular 50"
+}
