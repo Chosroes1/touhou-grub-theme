@@ -6,9 +6,13 @@
   tar -xzvf ~/Downloads/2880x1800.tar.gz -C ~/Downloads/
   sudo mv ~/Downloads/2880x1800/th-cb /boot/grub/themes/
 ```
-3.编辑`/etc/default/grub`，找到`GRUB_TERMINAL_OUTPUT=console`,把console改为gfxterm。<br>
-  找到或添加GRUB_THEME=，取消注释，并添加主题路径。`GRUB_THEME="/boot/grub/themes/th-cb/theme.txt"`。<br>
-  保存并退出。
+3.编辑`/etc/default/grub`配置文件。<br>
+```bash
+sudo vim /etc/default/grub
+```
+  找到`GRUB_TERMINAL_OUTPUT=console`,把console改为gfxterm。<br>
+  找到或添加GRUB_THEME=，取消注释，并添加主题路径。设置为`GRUB_THEME="/boot/grub/themes/th-cb/theme.txt"`。<br>
+  保存并退出。<br>
 4.更新grub。
 ``` bash
  sudo grub-mkconfig -o /boot/grub/grub.cfg
