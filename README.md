@@ -3,7 +3,7 @@
 
 配置方法
 ----
-1.在[Release](https://github.com/Chosroes1/touhou-grub-theme/releases/tag/v1.0)中选择自己屏幕分辨率对应的压缩包。<br>
+1.在[Releases](https://github.com/Chosroes1/touhou-grub-theme/releases/tag/v1.0)中选择自己屏幕分辨率对应的压缩包。<br>
 2.解压，将th-cb/移动到`/boot/grub/themes/`（Fedora等系统用户需移动到/boot/grub2/themes/）。下方示例以2880x1800为例，默认下载地址为`~/Downloads`，解压工具为gzip，请根据实际情况进行修正。
 ``` bash
   tar -xzvf ~/Downloads/2880x1800.tar.gz -C ~/Downloads/
