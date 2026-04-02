@@ -5,7 +5,7 @@
 
 導入方法
 ----
-1. [Releases](https://github.com/Chosroes1/touhou-grub-theme/releases/tag/v1.0) から、ご使用のモニター解像度に対応する圧縮ファイルを選択します。<br>
+1.[Releases](https://github.com/Chosroes1/touhou-grub-theme/releases/tag/v1.0) から、ご使用のモニター解像度に対応する圧縮ファイルを選択します。<br>
 2.解凍後、`th-cb/` フォルダを `/boot/grub/themes/` に移動します（Fedoraなどのシステムをご利用の場合は `/boot/grub2/themes/` に移動してください）。以下の例では、解像度 2880x1800、デフォルトのダウンロード先を `~/Downloads`、解凍ツールを gzip と想定しています。実際の環境に合わせてコマンドを修正してください。
 ``` bash
   tar -xzvf ~/Downloads/2880x1800.tar.gz -C ~/Downloads/
