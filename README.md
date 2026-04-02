@@ -1,6 +1,6 @@
 東方虚御履 ~Cyberadise Bootloader
 ====
-[简体中文](https://github.com/Chosroes1/touhou-grub-theme/blob/main/README.md) [English](https://github.com/Chosroes1/touhou-grub-theme/blob/main/README-EN.md)<br>
+[简体中文](https://github.com/Chosroes1/touhou-grub-theme/blob/main/README.md)     [English](https://github.com/Chosroes1/touhou-grub-theme/blob/main/README-EN.md)    [日本語](https://github.com/Chosroes1/touhou-grub-theme/blob/main/README-JP.md)<br>
 <img width="2880" height="1800" alt="例图" src="https://github.com/user-attachments/assets/41380705-44e1-4592-baf2-9070153ba81a" />
 
 
@@ -39,7 +39,7 @@ reboot
 Character Illustration: MMJ #pixiv 【フリー素材】新博麗霊夢立ち絵2023 https://www.pixiv.net/artworks/112223416 <br>
 Original Background： Freepik www.freepik.com <br>
 Title Font: 装甲明朝 https://flopdesign.booth.pm/items/1028555 <br>
-Suntitile Font: ROG Fonts <br>
+Suntile Font: ROG Fonts <br>
 Menu Font: 猫啃故障宋 https://fonts.zeoseven.com/items/831/ <br>
 Terminal Font: DejaVu Sans Mono <br>
 Other Font: 文泉驿正黑 <br>
