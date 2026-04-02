@@ -4,7 +4,7 @@
 <img width="2880" height="1800" alt="例图" src="https://github.com/user-attachments/assets/41380705-44e1-4592-baf2-9070153ba81a" />
 
 
-
+[简体中文](https://github.com/Chosroes1/touhou-grub-theme/blob/main/README.md) [English](https://github.com/Chosroes1/touhou-grub-theme/blob/main/README-EN.md)
 配置方法
 ----
 1.在[Releases](https://github.com/Chosroes1/touhou-grub-theme/releases/tag/v1.0)中选择自己屏幕分辨率对应的压缩包。<br>
